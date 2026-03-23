@@ -1,0 +1,8 @@
+# Code Owners
+
+* @alexkore12
+
+# Review Requirements
+- All changes require at least one approval
+- Security-related changes require review
+- Documentation changes can be merged with approval

@@ -1,0 +1,17 @@
+# Grype Security Scanner Configuration
+# https://github.com/anchore/grype
+
+name: nodejs-backend-20260321
+version: 1.0.0
+schema-version: v2.0
+
+check-for-app-update: true
+
+output:
+  format: table
+  file: ""
+
+severity:
+  - Critical
+  - High
+  - Medium
